@@ -6,7 +6,7 @@
 ## Usage
 
 ```
-global.lsrequire = new LSRequire().init({
+require('lsrequire').init({
   prodSourceRoot:  "./app",
   testSourceRoot:  "./spec",
   requireSymbol:  "$",
