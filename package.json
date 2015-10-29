@@ -1,0 +1,11 @@
+{
+  "name": "lsrequire",
+  "version": "0.0.1",
+  "description": "lsrequire for node",
+  "main": "index.js",
+  "author": "DiUS",
+  "license": "MIT",
+  "dependencies": {
+    "lsrequire-core": "0.0.1"
+  }
+}
