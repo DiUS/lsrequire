@@ -1,10 +1,15 @@
 {
   "name": "lsrequire",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "lsrequire for node",
   "main": "index.js",
   "author": "DiUS",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiUS/lsrequire"
+  },
+  "homepage": "https://github.com/DiUS/lsrequire",
   "dependencies": {
     "lsrequire-core": "0.0.1"
   }
