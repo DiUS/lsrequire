@@ -1,9 +1,19 @@
 {
   "name": "lsrequire",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "lsrequire for node",
   "main": "index.js",
   "author": "DiUS",
+  "contributors": [
+    {
+      "name" : "Matt Fielding",
+      "email" : "mfielding@dius.com.au"
+    },
+    {
+      "name" : "George Papas",
+      "email" : "george.papas@gmail.com"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -11,6 +21,6 @@
   },
   "homepage": "https://github.com/DiUS/lsrequire",
   "dependencies": {
-    "lsrequire-core": "0.0.1"
+    "lsrequire-core": "~0.0.3"
   }
 }
